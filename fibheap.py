@@ -1,5 +1,6 @@
 class FibonacciHeap:
 
+    # See https://github.com/danielborowski/fibonacci-heap-python
     # internal node class
     class Node:
         def __init__(self, key, value):
